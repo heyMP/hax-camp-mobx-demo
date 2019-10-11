@@ -1,1 +1,2 @@
-import "./hax-app.js"
+import "./count-app.js"
+import "./count-toolbar.js"
